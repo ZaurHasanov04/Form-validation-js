@@ -1,15 +1,4 @@
-/*
-submitBtn=document.querySelector("#submitbtn")
-submitBtn.addEventListener("click",function(){
-   userName=document.querySelector('.name')
-   userSurname=document.querySelector('.surname')
-   userEmail=document.querySelector('.mail')
-   userBirthDate=document.querySelector('.birthDate')
-   userSurname=document.querySelector('.userSurname')
-   userEmail=document.querySelector('.userEmail')
-   userBirthDate=document.querySelector('.userBirthDate')
-   user=new UserData(userName.value,userSurname.value,userEmail.value,userBirthDate.value
-*/
+
 
 data=[]
 
